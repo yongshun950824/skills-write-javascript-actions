@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/yongshun950824/skills-write-javascript-actions/issues"
   },
-  "homepage": "https://github.com/yongshun950824/skills-write-javascript-actions#readme"
+  "homepage": "https://github.com/yongshun950824/skills-write-javascript-actions#readme",
+  "dependencies": {
+    "@actions/core": "^2.0.1",
+    "@vercel/ncc": "^0.38.4",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
 }
